@@ -37,6 +37,6 @@ local Button = Tab:CreateButton({
 	Name = "Button Example!",
 	Description = nil, -- Creates A Description For Users to know what the button does (looks bad if you use it all the time),
     	Callback = function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/bronxkid/southbronx/refs/heads/main/bronxscript.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bronxkid/bronxbronx/refs/heads/main/bronx"))()
     	end
 })
