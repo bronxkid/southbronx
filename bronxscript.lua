@@ -5,7 +5,7 @@ local Window = Rayfield:CreateWindow({
    LoadingTitle = "Rayfield Interface Suite",
    LoadingSubtitle = "by SHOTS",
    ShowText = "SHOTSHUB", -- for mobile users to unhide rayfield, change if you'd like
-   Theme = "Serenity", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+   Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    ToggleUIKeybind = "N", -- The keybind to toggle the UI visibility (string like "K" or Enum.KeyCode)
 
