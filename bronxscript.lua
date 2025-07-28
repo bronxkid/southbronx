@@ -40,14 +40,14 @@ local Button = Tab:CreateButton({
    Name = "Fisch",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/ZenithHub/refs/heads/main/Loader"))()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+   loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
    end,
 })
 local Button = Tab:CreateButton({
    Name = "Rivals",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+   loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
    end,
 })
 local Button = Tab:CreateButton({
@@ -61,111 +61,111 @@ local Button = Tab:CreateButton({
 	Name = "Dead Rails",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "MM2 Keyed",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "MM2 Keyless",
     	Callback = function()
       loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Train To Fight",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/TraintoFight"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Mic Up",
     	Callback = function()
       loadstring(game:HttpGet('https://whimper.xyz/kitty'))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+     loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Chat Bypasser set language to Қазақ Тілі",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/AnnaRoblox/AnnaBypasser/refs/heads/main/AnnaBypasser.lua",true))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Basketball Legends",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/IAmJamal10/Basketball/refs/heads/main/Legends"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Hoopz",
     	Callback = function()
       loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/bf15a15feb3e074f81db01496cbb48e2.lua"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Infinite Yield (Admin Commands)",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Muscle Legends",
     	Callback = function()
       loadstring(game:HttpGet(('https://pastebin.com/raw/j3wU2wx0'),true))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Brainrot Evolution",
     	Callback = function()
       loadstring(game:HttpGet("https://gist.githubusercontent.com/ScriptsForDays/c4b8eddc6bd3aa3c1a349e604adc5525/raw/70a02fc583deb64689932a8c1c873d6fd38afe23/Brainrot-Evo"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Grow A Garden",
     	Callback = function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/Skibidiking123/Fisch1/refs/heads/main/FischMain"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Fight In A School",
     	Callback = function()
       loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1d4fdd8da9d3d356309687b39b45af4e.lua"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "The Wild West 4.0",
     	Callback = function()
       loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/255ac567ced3dcb9e69aa7e44c423f19.lua"))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
 local Button = Tab:CreateButton({
 	Name = "Death Ball",
     	Callback = function()
       loadstring(game:HttpGet('https://raw.githubusercontent.com/ExploiterDeathBall/AutoParry/refs/heads/main/AutoParryDeathBall'))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     end
 })
 local Button = Tab:CreateButton({
 	Name = "Ink Game",
     	Callback = function()
       loadstring(game:HttpGet('https://api.exploitingis.fun/loader', true))()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsdunkx/HAWKTUAH/refs/heads/main/w"))()
+      loadstring(game:HttpGet("https://pastebin.com/raw/5jYQP4A0"))()
     	end
 })
