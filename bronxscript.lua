@@ -24,7 +24,7 @@ local Window = Rayfield:CreateWindow({
       RememberJoins = false -- Set this to false to make them join the discord every time they load it up
    },
 
-   KeySystem = true, -- Set this to true to use our key system
+   KeySystem = false, -- Set this to true to use our key system
    KeySettings = {
       Title = "Shotshub Key",
       Subtitle = "Join Discord For August Key!",
