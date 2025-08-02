@@ -116,7 +116,7 @@ local Button = Tab:CreateButton({
 local Button = Tab:CreateButton({
 	Name = "Hoopz",
     	Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/ArurHub1/ArurHub/refs/heads/main/ArurHub"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/bw7dd/loader/refs/heads/main/loader"))()
       loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
     	end
 })
