@@ -44,6 +44,13 @@ local Button = Tab:CreateButton({
    end,
 })
 local Button = Tab:CreateButton({
+   Name = "Universe Football NFL",
+   Callback = function()
+   loadstring(game:HttpGet("https://rawscripts.net/raw/EASTER-NFL-Universe-Football-Kali-Hub-NFL-UNIVERSE-GUI-2025-36968"))()
+   loadstring(game:HttpGet("https://pastebin.com/raw/DA4e9c8Y"))()
+   end,
+})
+local Button = Tab:CreateButton({
    Name = "Rivals",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
