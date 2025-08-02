@@ -1,2 +1,0 @@
-script_key="NkDSdIsxMdpcxKDPrxfwJMVPFgHrKYlE";
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tyrant0Dev/Tyrant/refs/heads/main/loader"))()
