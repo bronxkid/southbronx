@@ -40,5 +40,5 @@ local Button = Tab:CreateButton({
    Name = "Get Script",
    Callback = function()
    setclipboard("https://discord.gg/2WCfS2PxxY")
-   end,
+   end
 })
